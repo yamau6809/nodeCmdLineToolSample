@@ -1,0 +1,11 @@
+{
+  "name": "@yamau6809/nodecmdlinetoolsample",
+  "version": "1.0.0",
+  "description": "Command Line Tool publishing sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hide Yamauchi",
+  "license": "MIT"
+}
