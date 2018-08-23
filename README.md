@@ -1,1 +1,1 @@
-# Creating Command Line Tool with JavaScript and publish it.
+# Creating Command Line Tool with JavaScript and publish it
